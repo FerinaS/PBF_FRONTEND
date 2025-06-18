@@ -17,3 +17,4 @@ bikin folder laravel di cmd create-project laravel/laravel namaprojectnya ^10
 buka folder frontend lalu bikin controller php artisan make:controller MahasiswaController
 
 lalu di cek di php artisan serve
+setelah itu edit edit di controller lalu ke view bikin .blade lalu liat di routes terus web nya juga
